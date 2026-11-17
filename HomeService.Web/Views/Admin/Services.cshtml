@@ -1,0 +1,115 @@
+﻿@model List<HomeService.Web.Models.Service>
+
+<h2>
+    Manage Services
+</h2>
+
+<hr />
+
+<p>
+
+    <a href="/admin/addservice">
+
+        Add New Service
+
+    </a>
+
+</p>
+
+<table border="1" cellpadding="15">
+
+    <tr>
+
+        <th>
+            Id
+        </th>
+
+        <th>
+            Category Id
+        </th>
+
+        <th>
+            Service
+        </th>
+
+        <th>
+            Description
+        </th>
+
+        <th>
+            Price
+        </th>
+
+        <th>
+            Status
+        </th>
+
+        <th>
+            Action
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>
+                @item.ServiceId
+            </td>
+
+            <td>
+                @item.CategoryId
+            </td>
+
+            <td>
+                @item.ServiceName
+            </td>
+
+            <td>
+                @item.Description
+            </td>
+
+            <td>
+                ₹ @item.Price
+            </td>
+
+            <td>
+
+                @if (item.IsActive)
+                {
+                    <span>
+                        Active
+                    </span>
+                }
+                else
+                {
+                    <span>
+                        Inactive
+                    </span>
+                }
+
+            </td>
+
+            <td>
+
+                <a href="/admin/editservice/@item.ServiceId">
+
+                    Edit
+
+                </a>
+
+                |
+
+                <a href="/admin/deleteservice/@item.ServiceId">
+
+                    Delete
+
+                </a>
+
+            </td>
+
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,84 @@
+﻿@model HomeService.Web.Models.Service
+
+<h2>
+    Edit Service
+</h2>
+
+<hr />
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(x => x.ServiceId)
+
+    <div>
+
+        <label>
+            Category Id
+        </label>
+
+        @Html.TextBoxFor(
+            x => x.CategoryId)
+
+    </div>
+
+    <br />
+
+    <div>
+
+        <label>
+            Service Name
+        </label>
+
+        @Html.TextBoxFor(
+            x => x.ServiceName)
+
+    </div>
+
+    <br />
+
+    <div>
+
+        <label>
+            Description
+        </label>
+
+        @Html.TextAreaFor(
+            x => x.Description)
+
+    </div>
+
+    <br />
+
+    <div>
+
+        <label>
+            Price
+        </label>
+
+        @Html.TextBoxFor(
+            x => x.Price)
+
+    </div>
+
+    <br />
+
+    <div>
+
+        <label>
+            Active
+        </label>
+
+        @Html.CheckBoxFor(
+            x => x.IsActive)
+
+    </div>
+
+    <br />
+
+    <button type="submit">
+
+        Update Service
+
+    </button>
+}
+

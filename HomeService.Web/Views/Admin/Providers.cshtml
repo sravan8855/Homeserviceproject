@@ -1,0 +1,98 @@
+﻿@model List<HomeService.Web.Models.Provider>
+
+<h2>
+    Manage Providers
+</h2>
+
+<hr />
+
+<table border="1" cellpadding="15">
+
+    <tr>
+
+        <th>
+            Id
+        </th>
+
+        <th>
+            Name
+        </th>
+
+        <th>
+            Mobile
+        </th>
+
+        <th>
+            Email
+        </th>
+
+        <th>
+            Location
+        </th>
+
+        <th>
+            Status
+        </th>
+
+        <th>
+            Action
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>
+                @item.ProviderId
+            </td>
+
+            <td>
+                @item.FullName
+            </td>
+
+            <td>
+                @item.MobileNumber
+            </td>
+
+            <td>
+                @item.Email
+            </td>
+
+            <td>
+                @item.Location
+            </td>
+
+            <td>
+
+                @if (item.IsApproved)
+                {
+                    <span>
+                        Approved
+                    </span>
+                }
+                else
+                {
+                    <span>
+                        Pending
+                    </span>
+                }
+
+            </td>
+
+            <td>
+
+                <a href="/admin/approveprovider/@item.ProviderId">
+
+                    Approve
+
+                </a>
+
+            </td>
+
+        </tr>
+    }
+
+</table>
+

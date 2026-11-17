@@ -1,0 +1,49 @@
+﻿@model HomeService.Web.Models.Review
+
+<h2>
+    Add Review
+</h2>
+
+<hr />
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(
+        x => x.BookingId)
+
+    @Html.HiddenFor(
+        x => x.ProviderId)
+
+    <div>
+
+        <label>
+            Rating (1-5)
+        </label>
+
+        @Html.TextBoxFor(
+            x => x.Rating)
+
+    </div>
+
+    <br />
+
+    <div>
+
+        <label>
+            Review
+        </label>
+
+        @Html.TextAreaFor(
+            x => x.ReviewText)
+
+    </div>
+
+    <br />
+
+    <button type="submit">
+
+        Submit Review
+
+    </button>
+}
+

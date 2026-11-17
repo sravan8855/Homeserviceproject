@@ -1,0 +1,49 @@
+﻿@model HomeService.Web.Models.Booking
+
+<h2>
+    Online Payment
+</h2>
+
+<hr />
+
+<h3>
+
+    Customer :
+    @Model.CustomerName
+
+</h3>
+
+<br />
+
+<h3>
+
+    Amount :
+    ₹ @Model.ServicePrice
+
+</h3>
+
+<br />
+
+<a href="/booking/paymentsuccess/@Model.BookingId">
+
+    <button>
+
+        Pay Now
+
+    </button>
+
+</a>
+
+<br />
+<br />
+
+<a href="/booking/paymentfailed/@Model.BookingId">
+
+    <button>
+
+        Cancel Payment
+
+    </button>
+
+</a>
+

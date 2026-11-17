@@ -1,0 +1,74 @@
+﻿/* -----------------------------------
+   Home Service Custom Styles
+----------------------------------- */
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #f5f7fb;
+}
+
+/* Navbar */
+
+.navbar {
+    background: linear-gradient(90deg,#0d6efd,#4f46e5);
+    padding: 15px 0;
+    box-shadow: 0 5px 15px rgba(0,0,0,.15);
+}
+
+.navbar-brand {
+    color: white !important;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.nav-link {
+    color: white !important;
+    margin-right: 15px;
+    font-weight: 500;
+    transition: .3s;
+}
+
+    .nav-link:hover {
+        color: #ffd43b !important;
+        transform: translateY(-2px);
+    }
+
+/* Login Buttons */
+
+.btn-login {
+    background: white;
+    color: #0d6efd !important;
+    border-radius: 30px;
+    padding: 8px 18px !important;
+    margin-left: 10px;
+    font-weight: 600;
+}
+
+    .btn-login:hover {
+        background: #ffd43b;
+        color: black !important;
+    }
+
+/* Register Button */
+
+.btn-register {
+    background: #ffd43b;
+    color: black !important;
+    border-radius: 30px;
+    padding: 8px 18px !important;
+    margin-left: 10px;
+    font-weight: 600;
+}
+
+    .btn-register:hover {
+        background: white;
+    }
+
+/* Footer */
+
+footer {
+    margin-top: 60px;
+    padding: 20px;
+    text-align: center;
+    background: #212529;
+    color: white;
+}

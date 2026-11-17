@@ -1,0 +1,45 @@
+﻿@model List<HomeService.Web.Models.Service>
+
+<h2>
+    Available Services
+</h2>
+
+<hr />
+
+<table border="1" cellpadding="15">
+
+    <tr>
+        <th>Service Name</th>
+
+        <th>Description</th>
+
+        <th>Price</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+           <td>
+
+               <a href="/providers/list/@item.ServiceId">
+
+                   @item.ServiceName
+
+               </a>
+
+           </td>
+
+            <td>
+                @item.Description
+            </td>
+
+            <td>
+                ₹ @item.Price
+            </td>
+
+        </tr>
+    }
+
+</table>
+

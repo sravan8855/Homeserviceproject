@@ -1,0 +1,115 @@
+﻿@model List<HomeService.Web.Models.Provider>
+
+<h2>
+    Available Providers
+</h2>
+
+<hr />
+
+<table border="1" cellpadding="15">
+
+    <tr>
+
+        <th>
+            Provider Name
+        </th>
+
+        <th>
+            Experience
+        </th>
+
+        <th>
+            Location
+        </th>
+
+        <th>
+            Mobile
+        </th>
+
+        <th>
+            Rating
+        </th>
+
+        <th>
+            Review
+        </th>
+
+        <th>
+            Action
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>
+                @item.FullName
+            </td>
+
+            <td>
+                @item.Experience
+            </td>
+
+            <td>
+                @item.Location
+            </td>
+
+            <td>
+                @item.MobileNumber
+            </td>
+
+            <td>
+
+                @if (item.Rating > 0)
+                {
+                    <span>
+
+                        @item.Rating / 5
+
+                    </span>
+                }
+                else
+                {
+                    <span>
+
+                        No Rating
+
+                    </span>
+                }
+
+            </td>
+
+            <td>
+
+                @if (!string.IsNullOrEmpty(
+                    item.ReviewText))
+                {
+                    @item.ReviewText
+                }
+                else
+                {
+                    <span>
+
+                        No Reviews
+
+                    </span>
+                }
+
+            </td>
+
+            <td>
+
+                <a href="/booking/create/@item.ProviderId">
+
+                    Book Now
+
+                </a>
+
+            </td>
+
+        </tr>
+    }
+
+</table>

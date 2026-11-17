@@ -1,0 +1,145 @@
+﻿@model List<HomeService.Web.Models.Booking>
+
+<h2>
+    All Bookings
+</h2>
+
+<hr />
+
+<table border="1" cellpadding="15" style="width:100%; border-collapse:collapse;">
+
+    <tr>
+
+        <th>
+            Booking Id
+        </th>
+
+        <th>
+            Customer
+        </th>
+
+        <th>
+            Mobile
+        </th>
+
+        <th>
+            Address
+        </th>
+
+        <th>
+            Date
+        </th>
+
+        <th>
+            Time
+        </th>
+
+        <th>
+            Provider Id
+        </th>
+
+        <th>
+            Status
+        </th>
+
+        <th>
+            Action
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>
+                @item.BookingId
+            </td>
+
+            <td>
+                @item.CustomerName
+            </td>
+
+            <td>
+                @item.MobileNumber
+            </td>
+
+            <td>
+                @item.Address
+            </td>
+
+            <td>
+                @item.BookingDate.ToShortDateString()
+            </td>
+
+            <td>
+                @item.BookingTime
+            </td>
+
+            <td>
+                @item.ProviderId
+            </td>
+
+            <td>
+                @item.BookingStatus
+            </td>
+
+            <td>
+
+                @* PENDING *@
+                @if (item.BookingStatus == "Pending")
+                {
+                    <a href="/Admin/ApproveBooking/@item.BookingId"
+                       style="color:green;">
+
+                        Approve
+
+                    </a>
+
+                    <text> | </text>
+
+                    <a href="/Admin/RejectBooking/@item.BookingId"
+                       style="color:red;">
+
+                        Reject
+
+                    </a>
+                }
+
+                @* ACCEPTED *@
+                else if (item.BookingStatus == "Accepted")
+                {
+                    <a href="/Admin/Completed/@item.BookingId"
+                       style="color:blue; font-weight:bold;">
+
+                        Mark Completed
+
+                    </a>
+                }
+
+                @* REJECTED *@
+                else if (item.BookingStatus == "Rejected")
+                {
+                    <span style="color:red; font-weight:bold;">
+
+                        Booking Rejected
+
+                    </span>
+                }
+
+                @* COMPLETED *@
+                else if (item.BookingStatus == "Completed")
+                {
+                    <span style="color:green; font-weight:bold;">
+
+                        ✔ Work Completed
+
+                    </span>
+                }
+
+            </td>
+
+        </tr>
+    }
+
+</table>

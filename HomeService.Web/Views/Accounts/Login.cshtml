@@ -1,0 +1,39 @@
+﻿@model HomeService.Web.Models.User
+
+<h2>
+    Customer Login
+</h2>
+
+<hr />
+
+@using (Html.BeginForm())
+{
+    <table>
+
+        <tr>
+            <td>
+                Email
+            </td>
+
+            <td>
+                @Html.TextBoxFor(x => x.Email)
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                Password
+            </td>
+
+            <td>
+                @Html.PasswordFor(x => x.Password)
+            </td>
+        </tr>
+
+    </table>
+
+    <br />
+
+    <input type="submit"
+           value="Login" />
+}

@@ -1,0 +1,97 @@
+﻿@model List<HomeService.Web.Models.Booking>
+
+<h2>
+    My Bookings
+</h2>
+
+<hr />
+
+<table border="1" cellpadding="15" style="width:100%; border-collapse:collapse;">
+
+    <tr>
+
+        <th>
+            Booking Id
+        </th>
+
+        <th>
+            Customer
+        </th>
+
+        <th>
+            Date
+        </th>
+
+        <th>
+            Status
+        </th>
+
+        <th>
+            Action
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>
+                @item.BookingId
+            </td>
+
+            <td>
+                @item.CustomerName
+            </td>
+
+            <td>
+                @item.BookingDate.ToShortDateString()
+            </td>
+
+            <td>
+                @item.BookingStatus
+            </td>
+
+            <td>
+
+                @* Show Review button only after completed *@
+                @if (item.BookingStatus == "Completed" && item.IsReviewed == false)
+                {
+                    <a href="/Customer/AddReview?bookingId=@item.BookingId&providerId=@item.ProviderId"
+                       style="background-color:green;
+                              color:white;
+                              padding:8px 15px;
+                              text-decoration:none;
+                              border-radius:5px;">
+
+                        Give Review
+
+                    </a>
+                }
+
+                @* Already reviewed *@
+                else if (item.IsReviewed == true)
+                {
+                    <span style="color:green; font-weight:bold;">
+
+                        ✔ Reviewed
+
+                    </span>
+                }
+
+                @* Work not completed *@
+                else
+                {
+                    <span style="color:gray;">
+
+                        Not Available
+
+                    </span>
+                }
+
+            </td>
+
+        </tr>
+    }
+
+</table>

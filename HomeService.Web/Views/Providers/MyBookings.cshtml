@@ -1,0 +1,101 @@
+﻿@model List<HomeService.Web.Models.Booking>
+
+<h2>
+    Assigned Bookings
+</h2>
+
+<hr />
+
+<table border="1" cellpadding="15">
+
+    <tr>
+
+        <th>
+            Booking Id
+        </th>
+
+        <th>
+            Customer
+        </th>
+
+        <th>
+            Mobile
+        </th>
+
+        <th>
+            Address
+        </th>
+
+        <th>
+            Date
+        </th>
+
+        <th>
+            Time
+        </th>
+
+        <th>
+            Status
+        </th>
+
+        <th>
+            Action
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>
+                @item.BookingId
+            </td>
+
+            <td>
+                @item.CustomerName
+            </td>
+
+            <td>
+                @item.MobileNumber
+            </td>
+
+            <td>
+                @item.Address
+            </td>
+
+            <td>
+                @item.BookingDate.ToShortDateString()
+            </td>
+
+            <td>
+                @item.BookingTime
+            </td>
+
+            <td>
+                @item.BookingStatus
+            </td>
+
+            <td>
+
+                <a href="/providers/accept/@item.BookingId">
+
+                    Accept
+
+                </a>
+
+                |
+
+                <a href="/providers/reject/@item.BookingId">
+
+                    Reject
+
+                </a>
+
+            </td>
+
+        </tr>
+    }
+
+</table>
+

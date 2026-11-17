@@ -1,0 +1,767 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|c:\\users\\srava\\onedrive\\desktop\\2026\\homeservice.web\\homeservice.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\controllers\\providerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\controllers\\providerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\content\\homeservices.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\content\\homeservices.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\services\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\services\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\models\\servicecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\models\\servicecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\providers\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\providers\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\providers\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\providers\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\providers\\earnings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\providers\\earnings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\admin\\providers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\admin\\providers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\models\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\models\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\booking\\paynow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\booking\\paynow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\admin\\bookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\admin\\bookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\providers\\myreviews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\providers\\myreviews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\providers\\mybookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\providers\\mybookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\models\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\models\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\customer\\mybookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\customer\\mybookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\providers\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\providers\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\customer\\addreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\customer\\addreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\customer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\customer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\admin\\addservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\admin\\addservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\admin\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\admin\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\services\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\services\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\home\\chooseregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\home\\chooseregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\providers\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\providers\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\booking\\mybookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\booking\\mybookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\homeservice.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67F22BC1-DC87-4798-B967-D188844D63A0}|HomeService.Web\\HomeService.Web.csproj|solutionrelative:homeservice.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 42,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Web.config",
+              "RelativeDocumentMoniker": "HomeService.Web\\Web.config",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Web.config",
+              "RelativeToolTip": "HomeService.Web\\Web.config",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-19T16:28:27.837Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Web.config",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Web.config",
+              "RelativeToolTip": "HomeService.Web\\Views\\Web.config",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-29T17:54:19.208Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Homeservices.css",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Content\\Homeservices.css",
+              "RelativeDocumentMoniker": "HomeService.Web\\Content\\Homeservices.css",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Content\\Homeservices.css",
+              "RelativeToolTip": "HomeService.Web\\Content\\Homeservices.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-07-07T18:23:24.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Content\\Site.css",
+              "RelativeDocumentMoniker": "HomeService.Web\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Content\\Site.css",
+              "RelativeToolTip": "HomeService.Web\\Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-07-07T18:18:08.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Global.asax.cs",
+              "RelativeDocumentMoniker": "HomeService.Web\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Global.asax.cs",
+              "RelativeToolTip": "HomeService.Web\\Global.asax.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T18:26:39.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Earnings.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Providers\\Earnings.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Providers\\Earnings.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Providers\\Earnings.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Providers\\Earnings.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T17:29:28.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PayNow.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Booking\\PayNow.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Booking\\PayNow.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Booking\\PayNow.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Booking\\PayNow.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T16:52:02.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MyReviews.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Providers\\MyReviews.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Providers\\MyReviews.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Providers\\MyReviews.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Providers\\MyReviews.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T06:14:23.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddReview.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Customer\\AddReview.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Customer\\AddReview.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Customer\\AddReview.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Customer\\AddReview.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T18:53:42.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MyBookings.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Customer\\MyBookings.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Customer\\MyBookings.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Customer\\MyBookings.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Customer\\MyBookings.cshtml",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwGAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T18:47:29.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Customer\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Customer\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Customer\\Dashboard.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Customer\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T18:46:27.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "HomeService.Web\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "HomeService.Web\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADgvzEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T18:39:54.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Reviews.cs",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Models\\Reviews.cs",
+              "RelativeDocumentMoniker": "HomeService.Web\\Models\\Reviews.cs",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Models\\Reviews.cs",
+              "RelativeToolTip": "HomeService.Web\\Models\\Reviews.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T18:30:09.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddService.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Admin\\AddService.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Admin\\AddService.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Admin\\AddService.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Admin\\AddService.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T06:15:55.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Admin\\Services.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Admin\\Services.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Admin\\Services.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Admin\\Services.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T06:15:05.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Providers.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Admin\\Providers.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Admin\\Providers.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Admin\\Providers.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Admin\\Providers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T05:16:41.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ChooseRegister.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Home\\ChooseRegister.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Home\\ChooseRegister.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Home\\ChooseRegister.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Home\\ChooseRegister.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T17:48:30.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T17:22:08.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T17:22:04.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MyBookings.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Providers\\MyBookings.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Providers\\MyBookings.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Providers\\MyBookings.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Providers\\MyBookings.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAUwGMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T16:55:34.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Providers\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Providers\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Providers\\Dashboard.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Providers\\Dashboard.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T16:44:45.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Providers\\Login.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Providers\\Login.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Providers\\Login.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Providers\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T16:42:47.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Providers\\Register.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Providers\\Register.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Providers\\Register.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Providers\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T16:41:00.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Bookings.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Admin\\Bookings.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Admin\\Bookings.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Admin\\Bookings.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Admin\\Bookings.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T16:18:17.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T16:15:50.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "HomeService.Web\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "HomeService.Web\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAPIBAAAAAAAAAAAUwB4CAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T16:13:25.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MyBookings.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Booking\\MyBookings.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Booking\\MyBookings.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Booking\\MyBookings.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Booking\\MyBookings.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T18:26:31.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAKcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T18:03:52.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T18:02:53.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Booking\\Create.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Booking\\Create.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Booking\\Create.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Booking\\Create.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T17:41:10.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "HomeService.Web\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "HomeService.Web\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAjwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:39:42.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "HomeService.Web\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Models\\Booking.cs",
+              "RelativeToolTip": "HomeService.Web\\Models\\Booking.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:36:50.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Providers\\List.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Providers\\List.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Providers\\List.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Providers\\List.cshtml",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAgwHIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T17:18:04.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProvidersController.cs",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Controllers\\ProvidersController.cs",
+              "RelativeDocumentMoniker": "HomeService.Web\\Controllers\\ProvidersController.cs",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Controllers\\ProvidersController.cs",
+              "RelativeToolTip": "HomeService.Web\\Controllers\\ProvidersController.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAAAMYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:16:41.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Provider.cs",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Models\\Provider.cs",
+              "RelativeDocumentMoniker": "HomeService.Web\\Models\\Provider.cs",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Models\\Provider.cs",
+              "RelativeToolTip": "HomeService.Web\\Models\\Provider.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvyEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:12:00.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Services\\List.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Services\\List.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Services\\List.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Services\\List.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T17:00:02.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Categories.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Services\\Categories.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Services\\Categories.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Services\\Categories.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Services\\Categories.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T16:29:27.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "HomeService.Web\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "HomeService.Web\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwD0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T16:25:29.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "HomeService.Web\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Models\\Service.cs",
+              "RelativeToolTip": "HomeService.Web\\Models\\Service.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T16:24:06.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceCategory.cs",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Models\\ServiceCategory.cs",
+              "RelativeDocumentMoniker": "HomeService.Web\\Models\\ServiceCategory.cs",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Models\\ServiceCategory.cs",
+              "RelativeToolTip": "HomeService.Web\\Models\\ServiceCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T16:22:46.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T16:12:16.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Accounts\\Login.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Accounts\\Login.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Accounts\\Login.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Accounts\\Login.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T16:08:54.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Accounts\\Register.cshtml",
+              "RelativeDocumentMoniker": "HomeService.Web\\Views\\Accounts\\Register.cshtml",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Views\\Accounts\\Register.cshtml",
+              "RelativeToolTip": "HomeService.Web\\Views\\Accounts\\Register.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T16:53:08.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "HomeService.Web\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "HomeService.Web\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAuwFcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T16:48:26.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HomeService.Web\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Models\\User.cs",
+              "RelativeToolTip": "HomeService.Web\\Models\\User.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T16:38:50.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HomeService.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\srava\\OneDrive\\Desktop\\2026\\HomeService.Web\\HomeService.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HomeService.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T16:17:03.51Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

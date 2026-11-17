@@ -1,0 +1,90 @@
+﻿@model HomeService.Web.Models.Provider
+
+<h2>
+    Provider Registration
+</h2>
+
+<hr />
+
+@using (Html.BeginForm())
+{
+    <table>
+
+        <tr>
+            <td>
+                Full Name
+            </td>
+
+            <td>
+                @Html.TextBoxFor(x => x.FullName)
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                Mobile Number
+            </td>
+
+            <td>
+                @Html.TextBoxFor(x => x.MobileNumber)
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                Email
+            </td>
+
+            <td>
+                @Html.TextBoxFor(x => x.Email)
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                Password
+            </td>
+
+            <td>
+                @Html.PasswordFor(x => x.Password)
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                Service Id
+            </td>
+
+            <td>
+                @Html.TextBoxFor(x => x.ServiceId)
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                Experience
+            </td>
+
+            <td>
+                @Html.TextBoxFor(x => x.Experience)
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                Location
+            </td>
+
+            <td>
+                @Html.TextBoxFor(x => x.Location)
+            </td>
+        </tr>
+
+    </table>
+
+    <br />
+
+    <input type="submit"
+           value="Register" />
+}
+

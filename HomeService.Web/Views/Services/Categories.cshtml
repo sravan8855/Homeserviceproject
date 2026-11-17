@@ -1,0 +1,22 @@
+﻿@model List<HomeService.Web.Models.ServiceCategory>
+
+<h2>Service Categories</h2>
+
+<table border="1" cellpadding="10">
+
+    <tr>
+        <th>Category Id</th>
+        <th>Category Name</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.CategoryId</td>
+
+            <td>@item.CategoryName</td>
+        </tr>
+    }
+
+</table>
+

@@ -1,0 +1,29 @@
+﻿@model List<HomeService.Web.Models.Review>
+
+<h2>
+    My Reviews
+</h2>
+
+<hr />
+
+@foreach (var item in Model)
+{
+    <div style="border:1px solid gray;
+                padding:15px;
+                margin-bottom:10px;">
+
+        <h4>
+            ⭐ @item.Rating / 5
+        </h4>
+
+        <p>
+            @item.ReviewText
+        </p>
+
+        <small>
+            @item.CreatedDate.ToShortDateString()
+        </small>
+
+    </div>
+}
+

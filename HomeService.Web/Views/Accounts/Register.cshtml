@@ -1,0 +1,42 @@
+﻿@model HomeService.Web.Models.User
+
+<h2>Register</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        <label>Full Name</label>
+        @Html.TextBoxFor(x => x.FullName)
+    </div>
+
+    <br />
+
+    <div>
+        <label>Mobile Number</label>
+        @Html.TextBoxFor(x => x.MobileNumber)
+    </div>
+
+    <br />
+
+    <div>
+        <label>Email</label>
+        @Html.TextBoxFor(x => x.Email)
+    </div>
+
+    <br />
+
+    <div>
+        <label>Password</label>
+        @Html.PasswordFor(x => x.Password)
+    </div>
+
+    <br />
+
+  
+
+    <br />
+
+    <button type="submit">
+        Register
+    </button>
+}

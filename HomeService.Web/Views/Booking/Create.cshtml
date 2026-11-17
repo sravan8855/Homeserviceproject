@@ -1,0 +1,94 @@
+﻿@model HomeService.Web.Models.Booking
+
+<h2>
+    Book Service
+</h2>
+
+<hr />
+
+@using (Html.BeginForm())
+{
+    <table cellpadding="10">
+
+        <tr>
+            <td>
+                Customer Name
+            </td>
+
+            <td>
+                @Html.TextBoxFor(
+                    x => x.CustomerName)
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                Mobile Number
+            </td>
+
+            <td>
+                @Html.TextBoxFor(
+                    x => x.MobileNumber)
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                Address
+            </td>
+
+            <td>
+                @Html.TextAreaFor(
+                    x => x.Address)
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                Booking Date
+            </td>
+
+            <td>
+                @Html.TextBoxFor(
+                    x => x.BookingDate,
+                    "{0:yyyy-MM-dd}",
+                    new { type = "date" })
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                Booking Time
+            </td>
+
+            <td>
+                @Html.TextBoxFor(
+                    x => x.BookingTime)
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                Service Price
+            </td>
+
+            <td>
+                @Html.TextBoxFor(
+                    x => x.ServicePrice,
+                    new
+                    {
+                        @readonly = "readonly"
+                    })
+            </td>
+        </tr>
+
+    </table>
+
+    @Html.HiddenFor(
+        x => x.ProviderId)
+
+    <br />
+
+    <input type="submit"
+           value="Confirm Booking" />
+}
